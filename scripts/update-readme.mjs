@@ -8,7 +8,6 @@ import { capitalize, mergedOrgs, projectsLabel, requireProfileData, searchUrl, u
 
 const data = requireProfileData();
 const MERGED_SEARCH = searchUrl(upstreamQuery("pr", "is:merged"));
-const IN_REVIEW_SEARCH = searchUrl(upstreamQuery("pr", "is:open"));
 const ISSUES_SEARCH = searchUrl(upstreamQuery("issue"), "issues");
 const CODEFORCES_PROFILE = `https://codeforces.com/profile/${CODEFORCES_HANDLE}`;
 
@@ -55,16 +54,15 @@ const BLOCKS = {
   },
 
   prs() {
-    const { merged, inReview, issuesReported } = data.openSource;
+    const { merged, issuesReported } = data.openSource;
     const orgs = mergedOrgs(data);
     const lines = [
-      `**[${merged.length} PRs merged](${MERGED_SEARCH})** in ${projectsLabel(orgs)} · **[${inReview.length} in review](${IN_REVIEW_SEARCH})** · [${issuesReported} issues reported](${ISSUES_SEARCH})`,
+      `**[${merged.length} PRs merged](${MERGED_SEARCH})** in ${projectsLabel(orgs)} · [${issuesReported} issues reported](${ISSUES_SEARCH})`,
       "",
       "**Latest merged**",
       "",
       ...merged.slice(0, LATEST_MERGED_SHOWN).map(prLine),
     ];
-    if (inReview.length) lines.push("", "**In review**", "", ...inReview.map(prLine));
     return lines.join("\n");
   },
 
@@ -73,7 +71,7 @@ const BLOCKS = {
     const leetcode = data.leetcode?.badge
       ? ` and [LeetCode ${data.leetcode.badge}](https://leetcode.com/u/${data.leetcode.user}/) (${data.leetcode.rating})`
       : "";
-    return `DSA in contests: [Codeforces ${capitalize(cf.maxRank)}](${CODEFORCES_PROFILE}) (max ${cf.maxRating}) over ${cf.contests} rated rounds${leetcode}.`;
+    return `DSA and problem solving in contests: [Codeforces ${capitalize(cf.maxRank)}](${CODEFORCES_PROFILE}) (max ${cf.maxRating}) over ${cf.contests} rated rounds${leetcode}.`;
   },
 };
 

@@ -90,24 +90,6 @@
         "mergedAt": "2026-09-09T10:17:52Z"
       }
     ],
-    "inReview": [
-      {
-        "owner": "open-telemetry",
-        "repo": "opentelemetry-ruby",
-        "number": 2389,
-        "title": "feat(metrics_sdk): support OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM_AGGREGATION env var",
-        "url": "https://github.com/open-telemetry/opentelemetry-ruby/pull/2389",
-        "mergedAt": null
-      },
-      {
-        "owner": "microcks",
-        "repo": "microcks-operator",
-        "number": 306,
-        "title": "feat: propagate sasl.client.callback.handler.class for MSK IAM producers",
-        "url": "https://github.com/microcks/microcks-operator/pull/306",
-        "mergedAt": null
-      }
-    ],
     "issuesReported": 7,
     "orgs": [
       {
@@ -126,12 +108,6 @@
         "login": "metal3-io",
         "id": 49879880,
         "name": "Metal3",
-        "cncf": true
-      },
-      {
-        "login": "microcks",
-        "id": 11051048,
-        "name": "Microcks",
         "cncf": true
       },
       {

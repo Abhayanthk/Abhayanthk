@@ -57,16 +57,14 @@ async function fetchOrg(login) {
 }
 
 async function fetchOpenSource() {
-  const [merged, inReview, issues] = await Promise.all([
+  const [merged, issues] = await Promise.all([
     searchAll(upstreamQuery("pr", "is:merged")),
-    searchAll(upstreamQuery("pr", "is:open")),
     searchAll(upstreamQuery("issue")),
   ]);
   const mergedPrs = merged.map(toItem).sort((a, b) => b.mergedAt.localeCompare(a.mergedAt));
-  const openPrs = inReview.map(toItem).sort((a, b) => b.number - a.number);
-  const owners = [...new Set([...mergedPrs, ...openPrs].map((pr) => pr.owner))].sort();
+  const owners = [...new Set(mergedPrs.map((pr) => pr.owner))].sort();
   const orgs = await Promise.all(owners.map(fetchOrg));
-  return { merged: mergedPrs, inReview: openPrs, issuesReported: issues.length, orgs };
+  return { merged: mergedPrs, issuesReported: issues.length, orgs };
 }
 
 async function fetchCodeforces() {
@@ -126,5 +124,5 @@ const data = {
 
 mkdirSync(dirname(DATA_FILE), { recursive: true });
 writeFileSync(DATA_FILE, `${JSON.stringify(data, null, 2)}\n`);
-const { merged, inReview, issuesReported } = data.openSource;
-console.log(`wrote ${DATA_FILE}: ${merged.length} merged, ${inReview.length} in review, ${issuesReported} issues, CF max ${data.codeforces.maxRating}, LC ${data.leetcode.rating}`);
+const { merged, issuesReported } = data.openSource;
+console.log(`wrote ${DATA_FILE}: ${merged.length} merged, ${issuesReported} issues, CF max ${data.codeforces.maxRating}, LC ${data.leetcode.rating}`);

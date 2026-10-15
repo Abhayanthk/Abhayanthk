@@ -1,0 +1,248 @@
+{
+  "openSource": {
+    "merged": [
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1865,
+        "title": "router: fix healthy pods not picked when no score plugin scores them",
+        "url": "https://github.com/volcano-sh/kthena/pull/1865",
+        "mergedAt": "2026-10-15T07:04:49Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1843,
+        "title": "autoscaler: fix pod metric sum before recommendation logic",
+        "url": "https://github.com/volcano-sh/kthena/pull/1843",
+        "mergedAt": "2026-10-13T07:31:47Z"
+      },
+      {
+        "owner": "kubeflow",
+        "repo": "spark-operator",
+        "number": 3192,
+        "title": "docs: add AGENTS.md and CLAUDE.md for AI coding agents",
+        "url": "https://github.com/kubeflow/spark-operator/pull/3192",
+        "mergedAt": "2026-10-13T01:15:06Z"
+      },
+      {
+        "owner": "openeverest",
+        "repo": "provider-milvus",
+        "number": 33,
+        "title": "test: add unit test coverage for provider logic",
+        "url": "https://github.com/openeverest/provider-milvus/pull/33",
+        "mergedAt": "2026-10-08T19:40:45Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1848,
+        "title": "model-serving: fix undeclared klog and name causing build failure",
+        "url": "https://github.com/volcano-sh/kthena/pull/1848",
+        "mergedAt": "2026-09-30T08:41:38Z"
+      },
+      {
+        "owner": "kubeflow",
+        "repo": "notebooks",
+        "number": 1439,
+        "title": "fix: preserve explicit secret defaultMode of 0 on workspaces",
+        "url": "https://github.com/kubeflow/notebooks/pull/1439",
+        "mergedAt": "2026-09-28T16:44:56Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1824,
+        "title": "docs: replace retired Go Report Card badge with Go version badge",
+        "url": "https://github.com/volcano-sh/kthena/pull/1824",
+        "mergedAt": "2026-09-24T08:21:30Z"
+      },
+      {
+        "owner": "metal3-io",
+        "repo": "baremetal-operator",
+        "number": 3667,
+        "title": "vbmctl: allow spec.vms to be empty",
+        "url": "https://github.com/metal3-io/baremetal-operator/pull/3667",
+        "mergedAt": "2026-09-24T07:11:46Z"
+      },
+      {
+        "owner": "kubearmor",
+        "repo": "KubeArmor",
+        "number": 2905,
+        "title": "feat: Group dependency updates into one PR",
+        "url": "https://github.com/kubearmor/KubeArmor/pull/2905",
+        "mergedAt": "2026-09-23T07:27:23Z"
+      },
+      {
+        "owner": "open-telemetry",
+        "repo": "opentelemetry-go-compile-instrumentation",
+        "number": 1379,
+        "title": "refactor(cmd/otelc): move internal/profile into package main",
+        "url": "https://github.com/open-telemetry/opentelemetry-go-compile-instrumentation/pull/1379",
+        "mergedAt": "2026-09-21T02:41:16Z"
+      },
+      {
+        "owner": "metal3-io",
+        "repo": "ironic-standalone-operator",
+        "number": 843,
+        "title": "Add periodic jobs for release-0.10 and 0.11",
+        "url": "https://github.com/metal3-io/ironic-standalone-operator/pull/843",
+        "mergedAt": "2026-09-09T10:17:52Z"
+      }
+    ],
+    "inReview": [
+      {
+        "owner": "open-telemetry",
+        "repo": "opentelemetry-ruby",
+        "number": 2389,
+        "title": "feat(metrics_sdk): support OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM_AGGREGATION env var",
+        "url": "https://github.com/open-telemetry/opentelemetry-ruby/pull/2389",
+        "mergedAt": null
+      },
+      {
+        "owner": "microcks",
+        "repo": "microcks-operator",
+        "number": 306,
+        "title": "feat: propagate sasl.client.callback.handler.class for MSK IAM producers",
+        "url": "https://github.com/microcks/microcks-operator/pull/306",
+        "mergedAt": null
+      }
+    ],
+    "issuesReported": 7,
+    "orgs": [
+      {
+        "login": "kubearmor",
+        "id": 86793284,
+        "name": "KubeArmor",
+        "cncf": true
+      },
+      {
+        "login": "kubeflow",
+        "id": 33164907,
+        "name": "Kubeflow",
+        "cncf": true
+      },
+      {
+        "login": "metal3-io",
+        "id": 49879880,
+        "name": "Metal3",
+        "cncf": true
+      },
+      {
+        "login": "microcks",
+        "id": 11051048,
+        "name": "Microcks",
+        "cncf": true
+      },
+      {
+        "login": "open-telemetry",
+        "id": 49998002,
+        "name": "OpenTelemetry",
+        "cncf": true
+      },
+      {
+        "login": "openeverest",
+        "id": 243322663,
+        "name": "OpenEverest",
+        "cncf": true
+      },
+      {
+        "login": "volcano-sh",
+        "id": 47214749,
+        "name": "Volcano",
+        "cncf": true
+      }
+    ]
+  },
+  "codeforces": {
+    "handle": "Harly24",
+    "rating": 1247,
+    "rank": "pupil",
+    "maxRating": 1484,
+    "maxRank": "specialist",
+    "contests": 73,
+    "history": [
+      358,
+      618,
+      771,
+      876,
+      980,
+      1082,
+      1030,
+      986,
+      1039,
+      1016,
+      982,
+      1024,
+      1051,
+      1084,
+      1154,
+      1174,
+      1106,
+      1119,
+      1098,
+      1147,
+      1137,
+      1124,
+      1093,
+      1116,
+      1136,
+      1128,
+      1142,
+      1188,
+      1188,
+      1194,
+      1262,
+      1173,
+      1179,
+      1166,
+      1118,
+      1155,
+      1130,
+      1144,
+      1199,
+      1121,
+      1145,
+      1178,
+      1206,
+      1194,
+      1241,
+      1247,
+      1169,
+      1236,
+      1306,
+      1369,
+      1315,
+      1360,
+      1411,
+      1422,
+      1431,
+      1377,
+      1361,
+      1316,
+      1356,
+      1440,
+      1476,
+      1484,
+      1432,
+      1396,
+      1328,
+      1350,
+      1235,
+      1272,
+      1289,
+      1318,
+      1269,
+      1258,
+      1247
+    ]
+  },
+  "leetcode": {
+    "user": "Harly24",
+    "rating": 1821,
+    "contests": 55,
+    "topPercentage": 7.53,
+    "badge": null,
+    "solved": 580
+  }
+}

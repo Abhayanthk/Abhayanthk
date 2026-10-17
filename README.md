@@ -3,7 +3,7 @@
 I'm a backend engineer who likes working on distributed systems. Right now I'm focused on Kubernetes and LLM serving, and I sharpen my problem solving with Codeforces and LeetCode contests.
 
 <!-- badges:start -->
-<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="11 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-11-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
+<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="12 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-12-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
 <!-- badges:end -->
 
 ## Now
@@ -15,21 +15,21 @@ I'm a backend engineer who likes working on distributed systems. Right now I'm f
 ## Open source
 
 <!-- orgs:start -->
-| [<img src="https://avatars.githubusercontent.com/u/47214749?s=80&v=4" width="36" alt="Volcano">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Avolcano-sh&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/33164907?s=80&v=4" width="36" alt="Kubeflow">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Akubeflow&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/49879880?s=80&v=4" width="36" alt="Metal3">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Ametal3-io&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/86793284?s=80&v=4" width="36" alt="KubeArmor">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Akubearmor&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/243322663?s=80&v=4" width="36" alt="OpenEverest">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Aopeneverest&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/49998002?s=80&v=4" width="36" alt="OpenTelemetry">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Aopen-telemetry&type=pullrequests) |
-|:-:|:-:|:-:|:-:|:-:|:-:|
-| Volcano | Kubeflow | Metal3 | KubeArmor | OpenEverest | OpenTelemetry |
+| [<img src="https://avatars.githubusercontent.com/u/47214749?s=80&v=4" width="36" alt="Volcano">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Avolcano-sh&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/33164907?s=80&v=4" width="36" alt="Kubeflow">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Akubeflow&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/49879880?s=80&v=4" width="36" alt="Metal3">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Ametal3-io&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/86793284?s=80&v=4" width="36" alt="KubeArmor">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Akubearmor&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/11051048?s=80&v=4" width="36" alt="Microcks">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Amicrocks&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/243322663?s=80&v=4" width="36" alt="OpenEverest">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Aopeneverest&type=pullrequests) | [<img src="https://avatars.githubusercontent.com/u/49998002?s=80&v=4" width="36" alt="OpenTelemetry">](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20org%3Aopen-telemetry&type=pullrequests) |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Volcano | Kubeflow | Metal3 | KubeArmor | Microcks | OpenEverest | OpenTelemetry |
 <!-- orgs:end -->
 
 <!-- prs:start -->
-**[11 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 6 CNCF projects · [7 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
+**[12 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 7 CNCF projects · [7 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
 
 **Latest merged**
 
+- [microcks/microcks-operator#306](https://github.com/microcks/microcks-operator/pull/306) feat: propagate sasl.client.callback.handler.class for MSK IAM producers
 - [volcano-sh/kthena#1865](https://github.com/volcano-sh/kthena/pull/1865) router: fix healthy pods not picked when no score plugin scores them
 - [volcano-sh/kthena#1843](https://github.com/volcano-sh/kthena/pull/1843) autoscaler: fix pod metric sum before recommendation logic
 - [kubeflow/spark-operator#3192](https://github.com/kubeflow/spark-operator/pull/3192) docs: add AGENTS.md and CLAUDE.md for AI coding agents
 - [openeverest/provider-milvus#33](https://github.com/openeverest/provider-milvus/pull/33) test: add unit test coverage for provider logic
-- [volcano-sh/kthena#1848](https://github.com/volcano-sh/kthena/pull/1848) model-serving: fix undeclared klog and name causing build failure
 <!-- prs:end -->
 
 ## Built

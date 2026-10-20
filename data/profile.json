@@ -2,6 +2,14 @@
   "openSource": {
     "merged": [
       {
+        "owner": "open-telemetry",
+        "repo": "opentelemetry-ruby",
+        "number": 2389,
+        "title": "feat(metrics_sdk): support OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM_AGGREGATION env var",
+        "url": "https://github.com/open-telemetry/opentelemetry-ruby/pull/2389",
+        "mergedAt": "2026-10-20T00:13:27Z"
+      },
+      {
         "owner": "microcks",
         "repo": "microcks-operator",
         "number": 306,
@@ -233,6 +241,6 @@
     "contests": 55,
     "topPercentage": 7.53,
     "badge": null,
-    "solved": 583
+    "solved": 584
   }
 }

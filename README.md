@@ -21,7 +21,7 @@ I'm a backend engineer who likes working on distributed systems. Right now I'm f
 <!-- orgs:end -->
 
 <!-- prs:start -->
-**[13 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 7 CNCF projects · [7 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
+**[13 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 7 CNCF projects · [8 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
 
 **Latest merged**
 

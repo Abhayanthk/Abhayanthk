@@ -4,6 +4,22 @@
       {
         "owner": "volcano-sh",
         "repo": "kthena",
+        "number": 1943,
+        "title": "model-serving: read PodGroupLister under the lock in updatePodGroupIfNeeded",
+        "url": "https://github.com/volcano-sh/kthena/pull/1943",
+        "mergedAt": "2026-11-02T08:33:05Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1922,
+        "title": "router: wait for the JWKS rotation goroutine in Stop",
+        "url": "https://github.com/volcano-sh/kthena/pull/1922",
+        "mergedAt": "2026-11-02T02:51:04Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
         "number": 1891,
         "title": "docs: remove PR-related text from router-routing.md",
         "url": "https://github.com/volcano-sh/kthena/pull/1891",
@@ -249,6 +265,6 @@
     "contests": 56,
     "topPercentage": 7.2,
     "badge": null,
-    "solved": 590
+    "solved": 591
   }
 }

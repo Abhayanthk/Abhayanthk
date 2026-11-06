@@ -4,6 +4,22 @@
       {
         "owner": "volcano-sh",
         "repo": "kthena",
+        "number": 1921,
+        "title": "router: read PodInfo.Pod through its locked accessors in session sticky",
+        "url": "https://github.com/volcano-sh/kthena/pull/1921",
+        "mergedAt": "2026-11-06T08:27:08Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 1956,
+        "title": "router: use the served model name in kvcache-aware",
+        "url": "https://github.com/volcano-sh/kthena/pull/1956",
+        "mergedAt": "2026-11-06T07:04:08Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
         "number": 1943,
         "title": "model-serving: read PodGroupLister under the lock in updatePodGroupIfNeeded",
         "url": "https://github.com/volcano-sh/kthena/pull/1943",

@@ -3,7 +3,7 @@
 I'm a backend engineer who likes working on distributed systems. Right now I'm focused on Kubernetes and LLM serving, and I sharpen my problem solving with Codeforces and LeetCode contests.
 
 <!-- badges:start -->
-<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="16 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-16-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
+<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="18 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-18-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
 <!-- badges:end -->
 
 ## Now
@@ -21,15 +21,15 @@ I'm a backend engineer who likes working on distributed systems. Right now I'm f
 <!-- orgs:end -->
 
 <!-- prs:start -->
-**[16 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 7 CNCF projects · [10 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
+**[18 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 7 CNCF projects · [10 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
 
 **Latest merged**
 
+- [volcano-sh/kthena#1921](https://github.com/volcano-sh/kthena/pull/1921) router: read PodInfo.Pod through its locked accessors in session sticky
+- [volcano-sh/kthena#1956](https://github.com/volcano-sh/kthena/pull/1956) router: use the served model name in kvcache-aware
 - [volcano-sh/kthena#1943](https://github.com/volcano-sh/kthena/pull/1943) model-serving: read PodGroupLister under the lock in updatePodGroupIfNe…
 - [volcano-sh/kthena#1922](https://github.com/volcano-sh/kthena/pull/1922) router: wait for the JWKS rotation goroutine in Stop
 - [volcano-sh/kthena#1891](https://github.com/volcano-sh/kthena/pull/1891) docs: remove PR-related text from router-routing.md
-- [open-telemetry/opentelemetry-ruby#2389](https://github.com/open-telemetry/opentelemetry-ruby/pull/2389) feat(metrics_sdk): support OTEL_EXPORTER_OTLP_METRICS_DEFAULT_HISTOGRAM…
-- [microcks/microcks-operator#306](https://github.com/microcks/microcks-operator/pull/306) feat: propagate sasl.client.callback.handler.class for MSK IAM producers
 <!-- prs:end -->
 
 ## Built

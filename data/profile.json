@@ -146,7 +146,7 @@
         "mergedAt": "2026-09-09T10:17:52Z"
       }
     ],
-    "issuesReported": 10,
+    "issuesReported": 11,
     "orgs": [
       {
         "login": "kubearmor",
@@ -281,6 +281,6 @@
     "contests": 56,
     "topPercentage": 7.21,
     "badge": null,
-    "solved": 596
+    "solved": 597
   }
 }

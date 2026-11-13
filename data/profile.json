@@ -4,6 +4,14 @@
       {
         "owner": "volcano-sh",
         "repo": "kthena",
+        "number": 2014,
+        "title": "model-booster: fix existing ModelBoosters turning Failed after upgrading to v1.1",
+        "url": "https://github.com/volcano-sh/kthena/pull/2014",
+        "mergedAt": "2026-11-13T07:43:42Z"
+      },
+      {
+        "owner": "volcano-sh",
+        "repo": "kthena",
         "number": 1921,
         "title": "router: read PodInfo.Pod through its locked accessors in session sticky",
         "url": "https://github.com/volcano-sh/kthena/pull/1921",
@@ -194,11 +202,11 @@
   },
   "codeforces": {
     "handle": "Harly24",
-    "rating": 1247,
+    "rating": 1257,
     "rank": "pupil",
     "maxRating": 1484,
     "maxRank": "specialist",
-    "contests": 73,
+    "contests": 74,
     "history": [
       358,
       618,
@@ -272,14 +280,15 @@
       1318,
       1269,
       1258,
-      1247
+      1247,
+      1257
     ]
   },
   "leetcode": {
     "user": "Harly24",
-    "rating": 1831,
-    "contests": 56,
-    "topPercentage": 7.21,
+    "rating": 1842,
+    "contests": 57,
+    "topPercentage": 6.82,
     "badge": null,
     "solved": 597
   }

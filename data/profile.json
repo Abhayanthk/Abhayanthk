@@ -2,6 +2,14 @@
   "openSource": {
     "merged": [
       {
+        "owner": "velero-io",
+        "repo": "velero",
+        "number": 10834,
+        "title": "Fix cross-namespace data mover restore regressed by #10333",
+        "url": "https://github.com/velero-io/velero/pull/10834",
+        "mergedAt": "2026-11-17T03:10:33Z"
+      },
+      {
         "owner": "volcano-sh",
         "repo": "kthena",
         "number": 2014,
@@ -190,6 +198,12 @@
         "login": "openeverest",
         "id": 243322663,
         "name": "OpenEverest",
+        "cncf": true
+      },
+      {
+        "login": "velero-io",
+        "id": 259300585,
+        "name": "Velero",
         "cncf": true
       },
       {

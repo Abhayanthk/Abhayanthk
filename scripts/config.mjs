@@ -26,6 +26,7 @@ export const ORGS = {
   "kubearmor": { name: "KubeArmor", cncf: true },
   "openeverest": { name: "OpenEverest", cncf: true },
   "microcks": { name: "Microcks", cncf: true },
+  "velero-io": { name: "Velero", cncf: true },
 };
 
 // How many merged PRs the README lists by title; the merged-count link shows the rest.

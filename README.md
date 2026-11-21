@@ -3,7 +3,7 @@
 I'm a backend engineer who likes working on distributed systems. Right now I'm focused on Kubernetes and LLM serving, and I sharpen my problem solving with Codeforces and LeetCode contests.
 
 <!-- badges:start -->
-<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="20 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-20-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
+<a href="https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests"><img alt="21 PRs merged upstream" src="https://img.shields.io/badge/merged%20upstream-21-7aa2f7?style=flat-square&labelColor=0f1117&logo=github&logoColor=white"></a> <a href="https://codeforces.com/profile/Harly24"><img alt="Codeforces Specialist, max rating 1484" src="https://img.shields.io/badge/Codeforces-Specialist%20%C2%B7%20max%201484-03a89e?style=flat-square&labelColor=0f1117&logo=codeforces&logoColor=white"></a>
 <!-- badges:end -->
 
 ## Now
@@ -21,15 +21,15 @@ I'm a backend engineer who likes working on distributed systems. Right now I'm f
 <!-- orgs:end -->
 
 <!-- prs:start -->
-**[20 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 8 CNCF projects · [12 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
+**[21 PRs merged](https://github.com/search?q=is%3Apr%20is%3Amerged%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=pullrequests)** in 8 CNCF projects · [15 issues reported](https://github.com/search?q=is%3Aissue%20author%3AAbhayanthk%20-user%3AAbhayanthk%20-user%3ASrijan76-code%20-user%3Ajaiswalsachin49%20-user%3ALalith0024%20-user%3ANaveenSh7%20-user%3Adevclub-nstru&type=issues)
 
 **Latest merged**
 
+- [volcano-sh/kthena#2068](https://github.com/volcano-sh/kthena/pull/2068) docs: add the required panic period to the autoscaler examples
 - [velero-io/velero#10834](https://github.com/velero-io/velero/pull/10834) Fix cross-namespace data mover restore regressed by #10333
 - [volcano-sh/kthena#2014](https://github.com/volcano-sh/kthena/pull/2014) model-booster: fix existing ModelBoosters turning Failed after upgradin…
 - [volcano-sh/kthena#1921](https://github.com/volcano-sh/kthena/pull/1921) router: read PodInfo.Pod through its locked accessors in session sticky
 - [volcano-sh/kthena#1956](https://github.com/volcano-sh/kthena/pull/1956) router: use the served model name in kvcache-aware
-- [volcano-sh/kthena#1943](https://github.com/volcano-sh/kthena/pull/1943) model-serving: read PodGroupLister under the lock in updatePodGroupIfNe…
 <!-- prs:end -->
 
 ## Built

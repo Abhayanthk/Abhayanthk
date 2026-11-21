@@ -2,6 +2,14 @@
   "openSource": {
     "merged": [
       {
+        "owner": "volcano-sh",
+        "repo": "kthena",
+        "number": 2068,
+        "title": "docs: add the required panic period to the autoscaler examples",
+        "url": "https://github.com/volcano-sh/kthena/pull/2068",
+        "mergedAt": "2026-11-21T02:00:47Z"
+      },
+      {
         "owner": "velero-io",
         "repo": "velero",
         "number": 10834,
@@ -162,7 +170,7 @@
         "mergedAt": "2026-09-09T10:17:52Z"
       }
     ],
-    "issuesReported": 12,
+    "issuesReported": 15,
     "orgs": [
       {
         "login": "kubearmor",
